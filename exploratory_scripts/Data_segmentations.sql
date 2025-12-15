@@ -3,7 +3,7 @@ WITH cost_seg AS(
 SELECT 
 product_key,
 product_name,
-cost,
+cost, 
 CASE
 	WHEN cost < 100 THEN 'Below 100'
 	WHEN cost BETWEEN 100 AND 500 THEN '100-500'
