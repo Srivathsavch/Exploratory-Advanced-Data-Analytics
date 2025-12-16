@@ -11,31 +11,31 @@ The project focuses on applying SQL concepts to real-world analytical scenarios 
 
 Each SQL file represents a specific type of analysis commonly used in data analytics and business intelligence:
 
-1. **01_Database_exploration.sql**  
+1. **Database_exploration**  
 
-2. **02_Dimension_exploration.sql**  
+2. **Dimension_exploration**  
 
-3. **03_Date_exploration.sql**  
+3. **Date_exploration**  
 
-4. **04_Measures_exploration.sql**  
+4. **Measures_exploration**  
 
-5. **05_Magnitude_analysis.sql**  
+5. **Magnitude_analysis**  
 
-6. **06_Ranking_analysis.sql**  
+6. **Ranking_analysis**  
 
-7. **07_Change_over_time.sql**  
+7. **Change_over_time**  
 
-8. **08_Cumulative_analysis.sql**  
+8. **Cumulative_analysis**  
 
-9. **09_Performance_analysis.sql**  
+9. **Performance_analysis**  
 
-10. **10_Data_segmentations.sql**  
+10. **Data_segmentations**  
 
-11. **11_Part-to-whole_analysis.sql**  
+11. **Part-to-whole_analysis**  
 
-12. **12_Customers_Report.sql**  
+12. **Customers_Report**  
 
-13. **13_Products_Report.sql**  
+13. **Products_Report**  
 
 ---
 
